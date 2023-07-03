@@ -25,7 +25,7 @@ The project utilizes the following technologies:
 
 - Java 20
 - Apache Tomcat 9.0.76
-- MySQL 8.0.33
+- MySQL 8.0.22
 - Maven 3.1.1
 - Java Servlet 4.0.1
 - JSTL 1.2
